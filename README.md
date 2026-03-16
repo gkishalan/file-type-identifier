@@ -15,3 +15,9 @@ A robust Python application that uncovers the true format of any file by analyzi
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/file-type-identifier.git
+````
+
+2. Run the GUI :
+````bash
+pythoncli/main.py--gui
+````
