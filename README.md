@@ -19,5 +19,5 @@ git clone https://github.com/YOUR_USERNAME/file-type-identifier.git
 
 2. Run the GUI :
 ````bash
-pythoncli/main.py--gui
+python cli/main.py --gui
 ````
